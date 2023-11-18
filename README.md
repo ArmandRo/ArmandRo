@@ -5,5 +5,3 @@
     <img src="https://metrics.lecoq.io/ArmandRo?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=ArmandRo&theme=dark&layout=compact)
-
