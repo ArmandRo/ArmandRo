@@ -5,8 +5,5 @@
     <img src="https://metrics.lecoq.io/ArmandRo?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ArmandRo&theme=dark&layout=compact)
 
